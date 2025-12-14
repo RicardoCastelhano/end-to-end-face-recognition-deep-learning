@@ -31,4 +31,37 @@ The system is capable of detecting multiple faces in a single image and identify
 ## 📂 Dataset
 
 The dataset consists of facial images organized in the following structure:
+dataset/
+├── train/
+│ ├── class_1/
+│ ├── class_2/
+│ └── ...
+└── val/
+├── class_1/
+├── class_2/
+└── ...
+
+
+Each class represents a different individual.
+
+## 🎯 Features
+
+- Multi-face detection in images
+- Facial recognition with confidence score
+- Data augmentation to improve generalization
+- Early stopping and model checkpointing
+- Modular and reusable pipeline for future projects
+
+## 🚀 Use Cases
+
+- Academic projects
+- Computer Vision studies
+- Face recognition systems
+- Deep Learning experimentation
+- Portfolio projects in Data Science and AI
+
+## 📌 Author
+
+Developed for educational purposes, focusing on Deep Learning, Computer Vision, and practical applications of Neural Networks.
+
 
