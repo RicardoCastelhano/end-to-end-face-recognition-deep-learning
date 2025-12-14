@@ -31,15 +31,25 @@ The system is capable of detecting multiple faces in a single image and identify
 ## 📂 Dataset
 
 The dataset consists of facial images organized in the following structure:
+
 dataset/
-├── train/
-│ ├── class_1/
-│ ├── class_2/
-│ └── ...
-└── val/
-├── class_1/
-├── class_2/
-└── ...
+
+  ├── train/
+
+  │ ├── class_1/
+
+  │ ├── class_2/
+
+  │ └── ...
+
+  └── val/
+
+  ├── class_1/
+
+  ├── class_2/
+
+  └── ...
+
 
 
 Each class represents a different individual.
